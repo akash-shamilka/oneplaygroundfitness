@@ -1,0 +1,18 @@
+.trainer-photo {
+    max-width: 200px; 
+    max-height: 200px;
+}
+#specializations-list {
+    list-style-type: disc;
+}
+.sound-info-form-field {
+	margin-bottom: 20px;
+}
+.sound-info-form-field label{
+	display: inline-block;
+    width: 200px;
+	margin-right: -100px;
+}
+.sound-info-form-field input {
+	width: 1200px;
+}
